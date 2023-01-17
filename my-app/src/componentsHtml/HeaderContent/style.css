@@ -1,0 +1,15 @@
+.HeaderContent{
+display: flex;
+height: 100vh;
+flex-direction: column;
+background-image: url('./img/bg-simplify-section-desktop.svg') ;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 80% ;
+background-color: hsl(13, 100%, 96%);
+
+}
+.PostHeader{
+    display: flex;
+    flex-direction: row;
+}

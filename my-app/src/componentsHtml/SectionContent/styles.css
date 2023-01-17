@@ -1,0 +1,11 @@
+.SectionContent{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url('../HeaderContent/img/bg-simplify-section-desktop.svg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -20vw 20vh;
+    background-color: hsl(13, 100%, 96%);
+}

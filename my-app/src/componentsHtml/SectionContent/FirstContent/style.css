@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Open+Sans:ital,wght@0,400;1,700&display=swap');
+
+.FirstContent{
+    margin-top: 5%;margin-left: 10%;
+    width: 40vw;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.FirstContent h1{
+    font-size: 36px;
+    color: hsl(228, 39%, 23%);
+}
+
+.FirstContent p{
+    font-size: 16px;
+    text-justify: justify;
+    margin-right: 30%; margin-top: 5%;
+    color: hsl(227, 12%, 61%);
+}

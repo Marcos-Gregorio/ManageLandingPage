@@ -1,0 +1,36 @@
+
+.NavSection{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 10%;
+
+}
+.bannerImg{
+    width: 10vw;
+    height: 4vw;
+    margin-left: 5%;
+    background-image: url('./img/logo.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.navList{
+    list-style: none;
+    display: flex;
+  
+    gap: 2% 5vh;
+}
+.navList li{
+cursor: pointer;
+font-size: 10px;
+
+font-family: 'Be Vietnam Pro', sans-serif;
+}
+button{
+    width: 10vw;
+    height: 5vh;
+    border-radius: 20px;
+}

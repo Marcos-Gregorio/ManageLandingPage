@@ -1,0 +1,65 @@
+.CardsItem{
+    align-items: center;  
+    width: 20vw;
+    height: 32vh;
+    gap: 5vw 2vh;
+}
+
+.ImgCards {
+   position: absolute;
+   margin-left: 7%;
+   margin-top: 2%;
+   width: 15vh;
+   height: 15vh;
+ 
+}
+.CardsTexts{
+    height: 25vh;
+    margin-top: 30%;
+    background-color: hsla(16, 21%, 86%, 0.954);
+}
+.CardsTexts h3{
+    margin-bottom: 2%;
+    color: hsl(228, 39%, 23%);
+}
+.CardsItem p {
+    margin-left: 10%;margin-right: 10%;
+    font-size: 10px;
+    font-weight: 400;
+    color:hsl(227, 12%, 61%);
+    text-align: center;
+}
+.TextTitle{
+    padding-top: 15%
+  
+}
+/* Img Avatar */
+#ali{
+    background-image: url('../img/avatar-ali.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    border: 2px solid aliceblue;
+}
+#anisha{
+    background-image: url('../img/avatar-anisha.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    border: 2px solid aliceblue;
+}
+#richadr{
+    background-image: url('../img/avatar-richard.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    border: 2px solid aliceblue;
+}
+#shanai{
+    background-image: url('../img/avatar-shanai.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    border: 2px solid aliceblue;
+
+}
