@@ -1,6 +1,7 @@
 import { HeaderContent } from './componentsHtml/HeaderContent/headerContent';
 import { SectionContent } from './componentsHtml/SectionContent/SectionContent';
 import { CardsComponents } from './componentsHtml/CardsContent/CardsContent';
+import { FooterContent } from './componentsHtml/FooterSection/FooterContent';
 import './App.css';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <HeaderContent/>
     <SectionContent/>
     <CardsComponents/>
+    <FooterContent/>
     </>
    </main>
   );
